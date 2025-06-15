@@ -1,5 +1,8 @@
 import numpy as np
 
+# This code snippet is used to define input data and weights for a Self-Organizing Map (SOM) model.
+# It includes a sample input dataset and a set of weights for the SOM to be able to test the vectorised implementation.
+
 input_data = np.array([[0.00366663, 0.35486482, 0.67226043],
  [0.80894242, 0.4617899 , 0.61254118],
  [0.47922536, 0.07718238, 0.13321755],
